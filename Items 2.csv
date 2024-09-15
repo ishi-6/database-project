@@ -1,0 +1,4 @@
+item,title,ID,location,publisher,rentable,owner,borrowedDate,dueDate,cost,edition,purchasable,onDiscount
+book,title,1,location,publisher,TRUE,student1@gmail.com,04/04/2024 01:38:27,04/04/2024 01:38:27,0,1,FALSE,FALSE
+CD,Chemistry1,123456,SteacieBasement,Wiley,TRUE,student1@gmail.com,03/04/2024 20:12:16,03/04/2024 20:12:16,0,2,FALSE,FALSE
+magazine,Chemistry2,2,SteacieBasement,Wiley,TRUE,student1@gmail.com,03/04/2024 20:12:16,03/04/2024 20:12:16,0,3,FALSE,FALSE
